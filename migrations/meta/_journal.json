@@ -1,0 +1,27 @@
+{
+  "version": "6",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1715879743809,
+      "tag": "0000_bitter_rocket_racer",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1715887457635,
+      "tag": "0001_past_stryfe",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1715941667072,
+      "tag": "0002_woozy_random",
+      "breakpoints": true
+    }
+  ]
+}
